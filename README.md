@@ -10,6 +10,7 @@ Intelligence Direction
 	<li><a href="https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1579635728.pdf" target="_blank" rel="noopener">SANS CTI Summit 2020 (Andreas Sfakianakis) -  Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past</a></li>
 	<li><a href="https://www.sans.org/reading-room/whitepapers/analyst/evolution-cyber-threat-intelligence-cti-2019-cti-survey-38790" target="_blank" rel="noopener"> SANS - 2019 CTI Survey</a></li>
   <li><a href="https://www.sans.org/reading-room/whitepapers/ActiveDefense/sliding-scale-cyber-security-36240" target="_blank" rel="noopener">SANS (Robert M. Lee) - The Sliding Scale of Cyber Security</a></li>
+	<li><a href="https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948" target="_blank" rel="noopener">Scott J. Roberts, Rebekah Brown - Intelligence-Driven Incident Response</a></li>
 	<li><a href="https://www.youtube.com/watch?v=Aqo3IcVQs_M" target="_blank" rel="noopener">SANS CTI Summit 2018 - Michael Rea - I Can Haz Requirements?: Requirements and CTI Program Success</a></li>
 	<li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
 	<li><a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857" target="_blank" rel="noopener">SANS (Brian P. Kim) - Threat Intelligence: Planning and Direction</a></li>
