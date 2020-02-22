@@ -24,7 +24,7 @@ Intelligence Direction
   <li><a href="https://www.first.org/events/symposium/london2019/program#pYour-Requirements-are-not-my-Requirements" target="_blank" rel="noopener">FIRST CTI 2019 (Pasquale Stirparo) - Your Requirements are not my Requirements</a></li>
   <li><a href="https://www.youtube.com/watch?v=3bXr-CF9NBI" target="_blank" rel="noopener">SANS CTI Summit 2018 - Intelligence Preparation of the Cyber Environment – Rob Dartnall</a></li>
   <li><a href="https://www.insaonline.org/wp-content/uploads/2017/04/INSA_Cyber_Intel_PrepTalent.pdf" target="_blank" rel="noopener">INSA - Cyber Intelligence: Preparing Today’s Talent for Tomorrow’s Threats</a></li>
-	<li><a href="https://threatintel.eu/2019/09/24/intelligence-requirements-and-don-quixote/" target="_blank" rel="noopener">ThreatIntel.eu - Intelligence Requirements: the Sancho Panza of CTI</a></li>
+	<li><a href="https://threatintel.eu/2019/09/24/intelligence-requirements-and-don-quixote/" target="_blank" rel="noopener">threatintel.eu - Intelligence Requirements: the Sancho Panza of CTI</a></li>
 <li><a href="https://grammarist.com/idiom/tilting-at-windmills/" target="_blank" rel="noopener">Grammarist - Tilting at windmills</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
 <li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nickels) - The Cycle of Cyber Threat Intelligence</a></li>
