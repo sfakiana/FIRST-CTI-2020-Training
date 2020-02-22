@@ -12,6 +12,8 @@ Intelligence Direction
   <li><a href="https://www.sans.org/reading-room/whitepapers/ActiveDefense/sliding-scale-cyber-security-36240" target="_blank" rel="noopener">SANS (Robert M. Lee) - The Sliding Scale of Cyber Security</a></li>
 	<li><a href="https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948" target="_blank" rel="noopener">Scott J. Roberts, Rebekah Brown - Intelligence-Driven Incident Response</a></li>
 	<li><a href="https://www.first.org/resources/papers/london2019/10-Building-Running-Maintaining-Schwartz-Miller.PPTX" target="_blank" rel="noopener">FIRST CTI 2019 (Michael J. Schwartz, Ryan Miller) - Building, Running, and Maintaining a CTI Program</a></li>
+	<li><a href="https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1548336589.pdf" target="_blank" rel="noopener">SANS CTI Summit 2019 (T. Gidwani, M. Chauvin) - How to Get Promoted: Developing metrics to show how threat intel works</a></li>
+	<li><a href="https://github.com/gertjanbruggink/Metrics" target="_blank" rel="noopener">Gert-Jan Bruggink - CTI Metrics Cheat Sheet</a></li>
 	<li><a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=546686" target="_blank" rel="noopener">SEI Carnegie Mellon University - Cyber Intelligence Tradecraft Report</a></li>
 	<li><a href="http://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf" target="_blank" rel="noopener">US Military Joint Publication 2-0</a></li>
 	<li><a href="https://www.youtube.com/watch?v=Aqo3IcVQs_M" target="_blank" rel="noopener">SANS CTI Summit 2018 - Michael Rea - I Can Haz Requirements?: Requirements and CTI Program Success</a></li>
