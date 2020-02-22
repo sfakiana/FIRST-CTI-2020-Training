@@ -28,6 +28,7 @@ Intelligence Direction
 <li><a href="https://grammarist.com/idiom/tilting-at-windmills/" target="_blank" rel="noopener">Grammarist - Tilting at windmills</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
 <li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nickels) - The Cycle of Cyber Threat Intelligence</a></li>
+<li><a href="https://www.slideshare.net/KatieNickels/resistance-isnt-futile-a-practical-approach-to-threat-modeling" target="_blank" rel="noopener">Katie Nickels - Resistance Isn't Futile: A Practical Approach to Threat Modeling</a></li>
 </ol>
  
  
