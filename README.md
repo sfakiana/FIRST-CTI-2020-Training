@@ -14,7 +14,7 @@ Intelligence Direction
 	<li><a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=546686" target="_blank" rel="noopener">SEI Carnegie Mellon University - Cyber Intelligence Tradecraft Report</a></li>
 	<li><a href="https://www.youtube.com/watch?v=Aqo3IcVQs_M" target="_blank" rel="noopener">SANS CTI Summit 2018 - Michael Rea - I Can Haz Requirements?: Requirements and CTI Program Success</a></li>
 	<li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
-	<li><a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857" target="_blank" rel="noopener">SANS (Brian P. Kim) - Threat Intelligence: Planning and Direction</a></li>
+	<li><a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857" target="_blank" rel="noopener">SANS (Brian Kime) - Threat Intelligence: Planning and Direction</a></li>
 	<li><a href="https://fas.org/irp/doddir/army/fm34-2/Appd.htm" target="_blank" rel="noopener">Developing Priority Intelligence Requirements</a></li>
 	<li><a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918" target="_blank" rel="noopener">Scott J. Roberts - CTI SquadGoals — Setting Requirements</a></li>
 	<li><a href="https://medium.com/@sroberts/intelligence-collection-priorities-a80fa3ed73cd" target="_blank" rel="noopener">Scott J. Roberts - Intelligence Collection Priorities</a></li>
