@@ -26,7 +26,6 @@ Intelligence Direction
 	<li><a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918" target="_blank" rel="noopener">Scott J. Roberts - CTI SquadGoals — Setting Requirements</a></li>
 	<li><a href="https://medium.com/@sroberts/intelligence-collection-priorities-a80fa3ed73cd" target="_blank" rel="noopener">Scott J. Roberts - Intelligence Collection Priorities</a></li>
 	<li><a href="https://www.dropbox.com/s/rtisz5zdy5sl1w1/ACSC-Reqs.xlsx" target="_blank" rel="noopener">Intel471 (Mark Arena) - Intelligence Requirements Template</a></li>
-	<li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to build a cyber threat intelligence program</a></li>
 	<li><a href="https://isc.sans.edu/forums/diary/Defining+Threat+Intelligence+Requirements/21519/" target="_blank" rel="noopener">SANS (Pasquale Stirparo) - Defining Threat Intelligence Requirements</a></li>
   <li><a href="https://www.first.org/events/symposium/london2019/program#pYour-Requirements-are-not-my-Requirements" target="_blank" rel="noopener">FIRST CTI 2019 (Pasquale Stirparo) - Your Requirements are not my Requirements</a></li>
   <li><a href="https://www.youtube.com/watch?v=3bXr-CF9NBI" target="_blank" rel="noopener">SANS CTI Summit 2018 - Intelligence Preparation of the Cyber Environment – Rob Dartnall</a></li>
