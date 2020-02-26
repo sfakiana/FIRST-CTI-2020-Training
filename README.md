@@ -31,10 +31,11 @@ Intelligence Direction
   <li><a href="https://www.youtube.com/watch?v=3bXr-CF9NBI" target="_blank" rel="noopener">SANS CTI Summit 2018 - Intelligence Preparation of the Cyber Environment – Rob Dartnall</a></li>
   <li><a href="https://dragos.com/wp-content/uploads/CMF_For_ICS.pdf" target="_blank" rel="noopener">Dragos - Collection Management Frameworks – Beyond Asset Inventories for Preparing for and Responding to Cyber Threats</a></li>
 	<li><a href="https://threatintel.eu/2019/09/24/intelligence-requirements-and-don-quixote/" target="_blank" rel="noopener">threatintel.eu - Intelligence Requirements: the Sancho Panza of CTI</a></li>
-<li><a href="https://grammarist.com/idiom/tilting-at-windmills/" target="_blank" rel="noopener">Grammarist - Tilting at windmills</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
 	<li><a href="https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1548336589.pdf" target="_blank" rel="noopener">SANS CTI Summit 2019 (T. Gidwani, M. Chauvin) - How to Get Promoted: Developing metrics to show how threat intel works</a></li>
 	<li><a href="https://github.com/gertjanbruggink/Metrics" target="_blank" rel="noopener">Gert-Jan Bruggink - CTI Metrics Cheat Sheet</a></li>
+	<li><a href="https://www.first.org/resources/papers/london2019/Metrics-and-attack-website.pdf" target="_blank" rel="noopener">FIRST CTI 2019 (Francesco Bigarella)  - Metrics and ATT&CK. Or how I failed to measure everything.</a></li>
+<li><a href="https://grammarist.com/idiom/tilting-at-windmills/" target="_blank" rel="noopener">Grammarist - Tilting at windmills</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
 </ol>
  
  
