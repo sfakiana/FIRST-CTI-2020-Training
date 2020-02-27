@@ -21,6 +21,7 @@ Intelligence Direction
 	<li><a href="http://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf" target="_blank" rel="noopener">US Military Joint Publication 2-0</a></li>
 	<li><a href="https://www.youtube.com/watch?v=Aqo3IcVQs_M" target="_blank" rel="noopener">SANS CTI Summit 2018 - Michael Rea - I Can Haz Requirements?: Requirements and CTI Program Success</a></li>
 	<li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
+	<li><a href="https://www.sans.org/summit-archives/file/summit-archive-1492183163.pdf" target="_blank" rel="noopener">Intel471 (Mark Arena) - Cyber Threat Intelligence - Maturity and Metrics</a></li>
 	<li><a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857" target="_blank" rel="noopener">SANS (Brian Kime) - Threat Intelligence: Planning and Direction</a></li>
 	<li><a href="https://fas.org/irp/doddir/army/fm34-2/Appd.htm" target="_blank" rel="noopener">Developing Priority Intelligence Requirements</a></li>
 	<li><a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918" target="_blank" rel="noopener">Scott J. Roberts - CTI SquadGoals — Setting Requirements</a></li>
@@ -29,6 +30,7 @@ Intelligence Direction
 	<li><a href="https://isc.sans.edu/forums/diary/Defining+Threat+Intelligence+Requirements/21519/" target="_blank" rel="noopener">SANS (Pasquale Stirparo) - Defining Threat Intelligence Requirements</a></li>
   <li><a href="https://www.first.org/events/symposium/london2019/program#pYour-Requirements-are-not-my-Requirements" target="_blank" rel="noopener">FIRST CTI 2019 (Pasquale Stirparo) - Your Requirements are not my Requirements</a></li>
   <li><a href="https://www.youtube.com/watch?v=3bXr-CF9NBI" target="_blank" rel="noopener">SANS CTI Summit 2018 - Intelligence Preparation of the Cyber Environment – Rob Dartnall</a></li>
+	<li><a href="https://intel471.com/threatintelprogramchecklist.pdf" target="_blank" rel="noopener">Intel471 - Threat intelligence program checklist</a></li>
   <li><a href="https://dragos.com/wp-content/uploads/CMF_For_ICS.pdf" target="_blank" rel="noopener">Dragos - Collection Management Frameworks – Beyond Asset Inventories for Preparing for and Responding to Cyber Threats</a></li>
 	<li><a href="https://threatintel.eu/2019/09/24/intelligence-requirements-and-don-quixote/" target="_blank" rel="noopener">threatintel.eu - Intelligence Requirements: the Sancho Panza of CTI</a></li>
 	<li><a href="https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1548336589.pdf" target="_blank" rel="noopener">SANS CTI Summit 2019 (T. Gidwani, M. Chauvin) - How to Get Promoted: Developing metrics to show how threat intel works</a></li>
