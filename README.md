@@ -43,7 +43,7 @@ Intelligence Direction
  
 Intelligence Reporting
 <ol>
-<li><a href="http://www.cyintanalysis.com/write-it-or-it-didnt-happen/" target="_blank" rel="noopener">CYINT Analysis - Write It, Or It Didn't Happen</a></li>
+<li><a href="https://web.archive.org/web/20170615231505/http://www.cyintanalysis.com/write-it-or-it-didnt-happen/" target="_blank" rel="noopener">CYINT Analysis - Write It, Or It Didn't Happen</a></li>
 <li><a href="https://www.youtube.com/watch?v=1h7rLHNXio8" target="_blank" rel="noopener">CTI Summit 2017 Keynote - Cliff Stoll - (Still) Stalking the Wily Hacker</a></li>
 <li><a href="https://www.youtube.com/watch?v=XEmksbsrnv8" target="_blank" rel="noopener">CTI Summit 2017 - Christian Paredes - Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence</a></li>
 <li><a href="http://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf" target="_blank" rel="noopener">US Military Joint Publication 2-0</a></li>
