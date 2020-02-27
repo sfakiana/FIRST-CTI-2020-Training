@@ -68,5 +68,7 @@ Intelligence Reporting
 <li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
 <li><a href="https://www.sans.org/summit-archives/file/summit-archive-1492183163.pdf" target="_blank" rel="noopener">Intel471 (Mark Arena) - Cyber Threat Intelligence - Maturity and Metrics</a></li>
 <li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nickels) - The Cycle of Cyber Threat Intelligence</a></li>
+	<li><a href="https://www.shadowserver.org/news/the-italian-connection-an-analysis-of-exploit-supply-chains-and-digital-quartermasters/" target="_blank" rel="noopener">Shadowserver - The Italian Connection: An analysis of exploit supply chains and digital quartermasters</a></li>
+	<li><a href="https://web.archive.org/web/20161110165454/http://www.cyintanalysis.com/what-analysts-can-learn-from-shadowservers-italian-connection-report/" target="_blank" rel="noopener">CYINT Analysis - What Analysts Can Learn From Shadowserver’s “Italian Connection” Report</a></li>
 </ol>
 
