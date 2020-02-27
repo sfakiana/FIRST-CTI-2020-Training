@@ -57,6 +57,8 @@ Intelligence Reporting
 <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/97unclass/axioms.html" target="_blank" rel="noopener">CIA - Fifteen Axioms for Intelligence Analysts</a></li>
 <li><a href="https://cdn.ymaws.com/www.scip.org/resource/resmgr/White_Papers/Analytic-Thinking-CIA.pdf" target="_blank" rel="noopener">CIA - Analytic Thinking and Presenting for Intelligence Producers</a></li>
 <li><a href="https://www.masterclass.com/articles/what-are-the-elements-of-a-narrative-arc-and-how-do-you-create-one-in-writing#what-is-a-narrative-arc" target="_blank" rel="noopener">Masterclass.com - Learn About Narrative Arcs: Definition, Examples, and How to Create a Narrative Arc in Your Writing</a></li>
+	<li><a href="https://www.sans.org/webcasts/top-10-writing-mistakes-cybersecurity-avoid-110220" target="_blank" rel="noopener">Lenny Zeltser - Top 10 Writing Mistakes in Cybersecurity and How You Can Avoid Them</a></li>
+	<li><a href="https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1579549399.pdf" target="_blank" rel="noopener">SANS CTI Summit 2020 (Lenny Zeltser) - Hack the Reader: Writing Effective Threat Reports</a></li>
 <li><a href="https://fas.org/irp/dni/icd/icd-203.pdf" target="_blank" rel="noopener">Intelligence Community Directive (ICD) 203 - Analytic Standards</a></li>
 <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-55-no.-1/pdfs/CleanedPetersen-What%20I%20Learned-20Apr2011.pdf" target="_blank" rel="noopener">Martin Petersen - What I Learned in 40 Years of Doing Intelligence Analysis for US Foreign Policymakers</a></li>
 <li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/sherman-kent-and-the-board-of-national-estimates-collected-essays/6words.html" target="_blank" rel="noopener">CIA - Words of Estimative Probability</a></li>
@@ -72,4 +74,3 @@ Intelligence Reporting
 	<li><a href="https://www.shadowserver.org/news/the-italian-connection-an-analysis-of-exploit-supply-chains-and-digital-quartermasters/" target="_blank" rel="noopener">Shadowserver - The Italian Connection: An analysis of exploit supply chains and digital quartermasters</a></li>
 	<li><a href="https://web.archive.org/web/20161110165454/http://www.cyintanalysis.com/what-analysts-can-learn-from-shadowservers-italian-connection-report/" target="_blank" rel="noopener">CYINT Analysis - What Analysts Can Learn From Shadowserver’s “Italian Connection” Report</a></li>
 </ol>
-
