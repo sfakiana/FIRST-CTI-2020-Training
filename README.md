@@ -68,6 +68,7 @@ Intelligence Reporting
 <li><a href="http://Analytic confidence" target="_blank" rel="noopener">Analytic Confidence</a></li>
 <li><a href="https://twitter.com/cabinetofficeuk/status/803941969630269440/photo/1" target="_blank" rel="noopener">Winston Churchill's Writing Advice</a></li>
 <li><a href="https://fas.org/irp/cia/product/style.pdf" target="_blank" rel="noopener">Style Manual and Writers' Guide for Intelligence Publications</a></li>
+<li><a href="https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol49no1/html_files/analytic_review_7.html" target="_blank" rel="noopener">CIA - Making the Analytic Review Process Work</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Admiralty_code" target="_blank" rel="noopener">Admiralty Code</a></li>
 <li><a href="https://www.us-cert.gov/tlp" target="_blank" rel="noopener">US-CERT - Traffic Light Protocol (TLP) Definitions and Usage</a></li>
 <li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
